@@ -1,0 +1,9 @@
+ISD Priorities
+
+- Basic Enemy Mechanics
+- Make levels
+- sort out shooting
+- sort out end screen
+- sort out start screen
+- add music feedback
+- add sound tracks 
