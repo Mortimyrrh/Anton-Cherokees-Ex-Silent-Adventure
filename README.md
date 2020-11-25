@@ -7,7 +7,7 @@ A 2D Platformer made in Max8 with Javascript.
 Source Code is in the Project folder.
 
 # Downloads
-MacOS Application: 
+MacOS Application: https://drive.google.com/file/d/1drHU8iKporev-Hwe50Ll7FGBzywCv6_z/view?usp=sharing
 
 or
 
