@@ -7,10 +7,10 @@ A 2D Platformer made in Max8 with Javascript.
 Source Code is in the Project folder.
 
 # Downloads
-MacOS Application: https://drive.google.com/file/d/1nhBjYHyIc8GiGYUTPRRqy-nljbLvhTmv/view?usp=sharing
+MacOS Application: 
 
 or
 
-Max Collective (.mxf): https://drive.google.com/file/d/1-WxLEI3qxIMV9XgBIJZtPpzNJpp4WLCw/view?usp=sharing
+Max Collective (.mxf): https://drive.google.com/file/d/1nhBjYHyIc8GiGYUTPRRqy-nljbLvhTmv/view?usp=sharing
 - This will work on windows.
 - Note you will need the free version of Max8 to run the Max Collective which can be download here https://cycling74.com/downloads/
