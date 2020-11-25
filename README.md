@@ -12,5 +12,5 @@ MacOS Application:
 or
 
 Max Collective (.mxf): https://drive.google.com/file/d/1nhBjYHyIc8GiGYUTPRRqy-nljbLvhTmv/view?usp=sharing
-- This will work on windows.
+- This will work on MacOS and Windows.
 - Note you will need the free version of Max8 to run the Max Collective which can be download here https://cycling74.com/downloads/
